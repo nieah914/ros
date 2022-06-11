@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: mobinn_SERVER_node
+Description: Description of mobinn_SERVER_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: serial std_msgs
