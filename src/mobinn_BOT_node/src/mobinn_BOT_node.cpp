@@ -36,7 +36,7 @@ float ORD_DEST_LAT = 0, ORD_DEST_LNG = 0;
 
 int main(int argc, char **argv)
 {
-    ros::init(argc, argv, "mobinn_BOT_node");
+    ros::init(argc, argv, "mobinn_BOT_node_2");
     // argc(argument count) = 메인 함수에 전달한 데이터의 갯수
     // argv(argument vector) = 데이터를 저장한 배열
     // mobinn_pub           = 노드의 이름
